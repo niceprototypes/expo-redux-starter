@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbf21c76-e3e1-4621-9761-a743c7347803" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gist" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navigation/AppNavigator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navigation/MainTabNavigator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.expo-shared/assets.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants/colors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants/layout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>makeVotesEndpoint</find>
+      <find>9 :</find>
+      <find>36</find>
+      <find>apiURI</find>
+      <find>console.warn</find>
+      <find>latestAction</find>
+      <find>yellow</find>
+      <find>chamber,</find>
+      <find>.section</find>
+      <find>, chamber</find>
+      <find>chamber === DOM_KEY_HOUSE</find>
+      <find>FETCH_</find>
+      <find>FETCH_VOTES_SUCCESS</find>
+      <find>descriptionText</find>
+      <find>#222</find>
+      <find>.isRequired()</find>
+      <find>'black</find>
+      <find>console.log</find>
+      <find>VoteTota</find>
+      <find>devtool</find>
+      <find>runnable</find>
+      <find>xcsch</find>
+      <find>createStore</find>
+      <find>Votes.js</find>
+      <find>reens/Votes'</find>
+      <find>Votes</find>
+      <find>fetchVotes</find>
+      <find>API_KEY_BOTH_CHAMBERS</find>
+      <find>colors</find>
+      <find>layout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>votes</replace>
+      <replace>API_KEY</replace>
+      <replace>getVotesPayloadItems</replace>
+      <replace>Votes</replace>
+      <replace>72</replace>
+      <replace>dotYes</replace>
+      <replace>36</replace>
+      <replace>PRO_PUBLICA</replace>
+      <replace>90</replace>
+      <replace>45</replace>
+      <replace>position, rotation</replace>
+      <replace>leftInner</replace>
+      <replace>rightInner</replace>
+      <replace>chamberIsHouse</replace>
+      <replace>.isRequired</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/navigation/AppNavigator.js" />
+        <option value="$PROJECT_DIR$/modules/bills/reducer.js" />
+        <option value="$PROJECT_DIR$/store/index.js" />
+        <option value="$PROJECT_DIR$/screens/Feed.js" />
+        <option value="$PROJECT_DIR$/constants/colors.js" />
+        <option value="$PROJECT_DIR$/constants/layout.js" />
+        <option value="$PROJECT_DIR$/constants/assets.js" />
+        <option value="$PROJECT_DIR$/modules/votes/reducer.js" />
+        <option value="$PROJECT_DIR$/components/TabBarIcon.js" />
+        <option value="$PROJECT_DIR$/screens/LinksScreen.js" />
+        <option value="$PROJECT_DIR$/modules/votes/helpers/prepareEntityID.js" />
+        <option value="$PROJECT_DIR$/modules/votes/constants.js" />
+        <option value="$PROJECT_DIR$/modules/votes/selectors.js" />
+        <option value="$PROJECT_DIR$/constants/dom.js" />
+        <option value="$PROJECT_DIR$/constants/api.js" />
+        <option value="$PROJECT_DIR$/modules/votes/actions.js" />
+        <option value="$PROJECT_DIR$/modules/votes/helpers/preparePayloadSchema.js" />
+        <option value="$PROJECT_DIR$/modules/votes/payload/reducer.js" />
+        <option value="$PROJECT_DIR$/components/Chamber/index.js" />
+        <option value="$PROJECT_DIR$/components/VoteTotals/index.js" />
+        <option value="$PROJECT_DIR$/components/Vote/index.js" />
+        <option value="$PROJECT_DIR$/screens/HomeScreen.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/navigation/MainTabNavigator.js" />
+        <option value="$PROJECT_DIR$/modules/reducer.js" />
+        <option value="$PROJECT_DIR$/helpers/api.js" />
+        <option value="$PROJECT_DIR$/screens/Votes.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="486" />
+    <option name="y" value="23" />
+    <option name="width" value="1194" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name=".expo-shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gist" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/votes/helpers" />
+      <recent name="$PROJECT_DIR$/modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/VoteTotals" />
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/screens" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf21c76-e3e1-4621-9761-a743c7347803" name="Default Changelist" comment="" />
+      <created>1561187669275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561187669275</updated>
+      <workItem from="1561187670993" duration="13694000" />
+      <workItem from="1561358680989" duration="28416000" />
+      <workItem from="1561500701516" duration="19964000" />
+      <workItem from="1561672135002" duration="594000" />
+      <workItem from="1561854713435" duration="32000" />
+      <workItem from="1562214066350" duration="387000" />
+      <workItem from="1562412902963" duration="602000" />
+      <workItem from="1564615137145" duration="5194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="486" y="23" width="1194" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.28388748" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005348" side_tool="true" weight="0.24255319" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/robot-prod.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/robot-dev.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-navigation/typescript/react-navigation.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="1356" column="18" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/__tests__/__snapshots__/StyledText-test.js.snap">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/payload/index.js" />
+    <entry file="file://$PROJECT_DIR$/modules/votes/isFetching/index.js" />
+    <entry file="file://$PROJECT_DIR$/modules/votes/index.js" />
+    <entry file="file://$PROJECT_DIR$/components/TabBarIcon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@expo/samples/ExpoLinksView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/SettingsScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/LinksScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/isFetching/reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo/packager-info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo/settings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/constants.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/helpers/prepareEntityID.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Color/normalizeColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="304" column="2" selection-start-line="304" selection-start-column="2" selection-end-line="304" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/selectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/helpers/preparePayloadSchema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/votes/payload/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/VoteTotals/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Chamber/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Vote/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/api.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Votes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/StyledText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/AppNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/MainTabNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.expo-shared/assets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/assets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
