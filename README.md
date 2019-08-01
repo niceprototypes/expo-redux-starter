@@ -18,6 +18,9 @@ To start the debugger (in a different terminal instance):
 yarn debug
 ```
 
+### Enable live reloading
+Redux and the debugger require live reloading. To enable this, trigger the shake gesture on your emulator (for XCode go to `Hardware > Shake Gesture`) and disable hot reloading, then enable live reloading.
+
 ### Troubleshooting
 If you get an `EACESS` permissions error while trying to install a global package, you can fix this by creating a new path for global NPM packages. If `~/.profile` exists on your machine, add the code below to the top line. Otherwise, create the file and add it:
 ```
