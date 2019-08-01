@@ -1,5 +1,5 @@
-#expo-redux-starter
-###Setup
+# expo-redux-starter
+### Setup
 
 1. Install Expo:
 https://docs.expo.io/versions/latest/workflow/expo-cli/
@@ -7,7 +7,7 @@ https://docs.expo.io/versions/latest/workflow/expo-cli/
 2. Install React Native Debugger:
 https://github.com/jhen0409/react-native-debugger
 
-###Start
+### Start
 To start the Expo client:
 ```
 yarn install
@@ -18,7 +18,7 @@ To start the debugger (in a different terminal instance):
 yarn debug
 ```
 
-###Troubleshooting
+### Troubleshooting
 If you get an `EACESS` permissions error while trying to install a global package, you can fix this by creating a new path for global NPM packages. If `~/.profile` exists on your machine, add the code below to the top line. Otherwise, create the file and add it:
 ```
 NPM_CONFIG_PREFIX=~/.npm-global
