@@ -24,13 +24,12 @@ The debugger requires live reloading. To enable this, trigger the shake gesture 
 ### Troubleshooting
 If you get an `EACESS` permissions error while trying to install a global package, you can fix this by creating a new path for global NPM packages. If `~/.profile` exists on your machine, add the code below to the top line. Otherwise, create the file and add it:
 ```
-NPM_CONFIG_PREFIX=~/.npm-global
+PATH=~/.npm-global/bin:$PATH
 ```
 Then run the following:
 ```
 mkdir ~/.npm-global
 npm config set prefix '~/.npm-global'
-export PATH=~/.npm-global/bin:$PATH
 source ~/.profile
 npm install -g expo-cli
 ```
