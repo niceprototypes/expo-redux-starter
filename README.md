@@ -18,8 +18,8 @@ To start the debugger (in a different terminal instance):
 yarn debug
 ```
 
-### Enable live reloading
-The debugger requires live reloading. To enable this, trigger the shake gesture on your emulator (for XCode go to `Hardware > Shake Gesture`) and disable hot reloading, then enable live reloading.
+### Enable live reloading & remote debugging
+The debugger requires live reloading. To enable this, trigger the shake gesture on your emulator (for XCode go to `Hardware > Shake Gesture`) and disable hot reloading, then enable live reloading. Finally, make sure remote debugging is enabled.
 
 ### Troubleshooting
 If you get an `EACESS` permissions error while trying to install a global package, you can fix this by creating a new path for global NPM packages. If `~/.profile` exists on your machine, add the code below to the top line. Otherwise, create the file and add it:
